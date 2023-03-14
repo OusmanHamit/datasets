@@ -99,11 +99,11 @@ Fatima,43.0,chinois,Feminin,7,Cadre superieur,603944.0
 Abakar,47.0,anglais,Feminin,7,Fonctionaire,779339.0
 Yussef,62.0,Allemand,Masculin,7,Fonctionaire,228941.0
 Robert,68.0,francais,Masculin,0,Independant,559619.0
-Diop,76.0,arabe,Feminin,4,Independant,289481.0
-Sherif,70.0,Russe,Feminin,6,Retraite,621661.0
-George,39.0,arabe,Masculin,7,Fonctionaire,708525.0
-Robert,79.0,Allemand,Feminin,7,Cadre superieur,812430.0
-Ali,31.0,Espagnol,Masculin,2,Cadre superieur,389187.0
+Diop,140.0,arabe,Feminin,4,Independant,2000000.0
+Sherif,140.0,Russe,Feminin,6,Retraite,2000000.0
+George,140.0,arabe,Masculin,7,Fonctionaire,2000000.0
+Robert,140.0,Allemand,Feminin,7,Cadre superieur,2000000.0
+Ali,140.0,Espagnol,Masculin,2,Cadre superieur,2000000.0
 Fatima,50.0,Espagnol,Feminin,0,Fonctionaire,831033.0
 Abakar,72.0,arabe,Masculin,5,Retraite,495774.0
 Yussef,28.0,Allemand,Masculin,6,Retraite,87879.0
@@ -599,16 +599,16 @@ George,58.0,francais,Masculin,3,Independant,668901.0
 Robert,37.0,Russe,Masculin,7,Retraite,552553.0
 Fatima,44.0,Russe,Masculin,3,Independant,153541.0
 Yussef,85.0,Allemand,Feminin,2,Cadre superieur,340273.0
-Abakar,77.0,Allemand,Feminin,0,Fonctionaire,528098.0
-Diop,39.0,Russe,Masculin,7,Cadre superieur,884158.0
-Sherif,38.0,Russe,Feminin,4,Fonctionaire,515884.0
-Moussa,76.0,anglais,Feminin,1,Retraite,740748.0
-Rebeca,49.0,Russe,Masculin,5,Independant,896944.0
-James,85.0,Allemand,Masculin,3,Independant,308845.0
-Diop,38.0,Espagnol,Masculin,7,Independant,193717.0
-Fatima,76.0,arabe,Masculin,4,Retraite,529756.0
-Yussef,61.0,Espagnol,Feminin,5,Independant,783123.0
-Robert,55.0,arabe,Feminin,5,Fonctionaire,546970.0
+Abakar,160.0,Allemand,Feminin,0,Fonctionaire,2000000.0
+Diop,160.0,Russe,Masculin,7,Cadre superieur,2000000.0
+Sherif,160.0,Russe,Feminin,4,Fonctionaire,2000000.0
+Moussa,160.0,anglais,Feminin,1,Retraite,2000000.0
+Rebeca,160.0,Russe,Masculin,5,Independant,2000000.0
+James,160.0,Allemand,Masculin,3,Independant,2000000.0
+Diop,160.0,Espagnol,Masculin,7,Independant,2000000.0
+Fatima,160.0,arabe,Masculin,4,Retraite,2000000.0
+Yussef,160.0,Espagnol,Feminin,5,Independant,2000000.0
+Robert,160.0,arabe,Feminin,5,Fonctionaire,2000000.0
 Moussa,60.0,arabe,Masculin,2,Fonctionaire,368369.0
 Ali,33.0,Allemand,Feminin,4,Retraite,481971.0
 Eric,66.0,Espagnol,Feminin,1,Independant,720284.0
@@ -2999,16 +2999,16 @@ Diop,96.0,arabe,Masculin,1,Cadre superieur,88966.0
 Moussa,46.0,chinois,Masculin,4,Fonctionaire,501697.0
 Sherif,63.0,anglais,Masculin,7,Cadre superieur,512728.0
 Cisse,52.0,Allemand,Masculin,4,Independant,
-Robert,47.0,arabe,Feminin,5,Cadre superieur,505237.0
-George,33.0,anglais,Feminin,0,Retraite,558281.0
-Cisse,97.0,Russe,Feminin,7,Cadre superieur,715841.0
-Sherif,33.0,Allemand,Masculin,6,Cadre superieur,762743.0
-Eric,56.0,arabe,Feminin,5,Independant,289739.0
-Eric,51.0,Russe,Feminin,7,Cadre superieur,
-Cisse,31.0,Allemand,Masculin,2,Retraite,383141.0
-Ali,34.0,anglais,Masculin,5,Retraite,115987.0
-Rebeca,29.0,arabe,Feminin,6,Cadre superieur,640166.0
-Sherif,65.0,francais,Feminin,1,Fonctionaire,869898.0
+Robert,190.0,arabe,Feminin,5,Cadre superieur,3000000.0
+George,190.0,anglais,Feminin,0,Retraite,3000000.0
+Cisse,190.0,Russe,Feminin,7,Cadre superieur,3000000.0
+Sherif,190.0,Allemand,Masculin,6,Cadre superieur,3000000.0
+Eric,190.0,arabe,Feminin,5,Independant,3000000.0
+Eric,190.0,Russe,Feminin,7,Cadre superieur,3000000.0
+Cisse,190.0,Allemand,Masculin,2,Retraite,3000000.0
+Ali,190.0,anglais,Masculin,5,Retraite,3000000.0
+Rebeca,190.0,arabe,Feminin,6,Cadre superieur,3000000.0
+Sherif,190.0,francais,Feminin,1,Fonctionaire,3000000.0
 Fatima,95.0,anglais,Masculin,6,Independant,109040.0
 Diop,93.0,Espagnol,Masculin,7,Fonctionaire,738455.0
 Fatima,45.0,Russe,Masculin,3,Retraite,808228.0
