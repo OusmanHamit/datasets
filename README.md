@@ -1,7 +1,8 @@
-# datasets
+
+# SALES DATASET 
+
 -----------------------------------------------------------------------------
-# DESCRIPTION:
+## DESCRIPTION DU PROBLEME:
 
-### Le dataset project.csv décrit un exemple de données de ventes incluant les commandes effectuées, les clients, les expéditions, etc., utilisées pour la segmentation ou l'analyse du comportement d'achat, le regroupement, etc. 
+### L'analyse des ventes consiste à tirer des enseignements des données, des tendances et des mesures relatives aux ventes afin de fixer des objectifs et de prévoir les performances commerciales futures. L'analyse des ventes consiste à exploiter vos données pour évaluer les performances de votre équipe de vente par rapport à ses objectifs. Elle fournit des informations sur les produits/services les plus performants et les moins performants, sur les problèmes de vente et les opportunités de marché, sur les prévisions de vente et sur les activités de vente qui génèrent des revenus etc. 
 
-#### Notre objectif est de les nettoyer correctement avant de les rendre aux data scientists qui pourront les analyser plus facilement et tirer les meilleures conclusions
