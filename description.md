@@ -17,7 +17,7 @@
 - arr_delay : Retard à l'arrivée en minutes.
 - carrier : Code du transporteur aérien.
 - flight : Numéro de vol.
-- tailnum : Numéro de queue de l'avion.
+- tailnum : Identifiant unique de l'aéronef utilisé pour le vol.
 - origin : Aéroport de départ.
 - dest : Aéroport de destination.
 - air_time : Durée du vol en minutes.
