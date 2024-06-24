@@ -1,7 +1,7 @@
 
 ---
 
-Ce dataset (flights) contient des informations sur 336 776 vols, avec 21 colonnes décrivant divers aspects des vols (informations sur les horaires de vol, les retards, les compagnies aériennes et les trajets). Voici une description succincte du dataset:
+## Ce dataset (flights) contient des informations sur 336 776 vols, avec 21 colonnes décrivant divers aspects des vols (informations sur les horaires de vol, les retards, les compagnies aériennes et les trajets). Voici une description succincte du dataset:
 
 <br/>
 
