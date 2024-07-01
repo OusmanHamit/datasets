@@ -1,7 +1,8 @@
 
 ---
+>## Description du problème (compagnies aériennes)
 
-## Ce dataset (flights) contient des informations sur 336 776 vols, avec 21 colonnes décrivant divers aspects des vols (informations sur les horaires de vol, les retards, les compagnies aériennes et les trajets). Voici une description succincte du dataset:
+Ce dataset (flights) contient des informations sur 336 776 vols, avec 21 colonnes décrivant divers aspects des vols (informations sur les horaires de vol, les retards, les compagnies aériennes et les trajets). Voici une description succincte du dataset:
 
 <br/>
 
@@ -17,7 +18,7 @@
 - arr_delay : Retard à l'arrivée en minutes.
 - carrier : Code du transporteur aérien.
 - flight : Numéro de vol.
-- tailnum : Identifiant unique de l'aéronef utilisé pour le vol.
+- tailnum : Numéro de queue de l'avion.
 - origin : Aéroport de départ.
 - dest : Aéroport de destination.
 - air_time : Durée du vol en minutes.
